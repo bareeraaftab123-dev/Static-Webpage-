@@ -36,15 +36,25 @@ A **clean, responsive static webpage** designed for a nature travel brand called
 
  nature-horizon/
 │
+
 ├── index.html # Main HTML file
+
 ├── css/
+
 │ └── styles.css # External stylesheet
+
 ├── images/
+
 │ ├── landscape.jpg # Hero banner image
+
 │ ├── forest.jpg # Card image 1
+
 │ ├── mountains.jpg # Card image 2
+
 │ ├── lake.jpg # Card image 3
+
 │ └── meditate.jpg # Info section image
+
 └── README.md  #Project documentation
 
 
@@ -58,11 +68,7 @@ Image Requirements
 | lake.jpg | 400 × 260 px | 1.54:1 | Featured card |
 | meditate.jpg | 500 × 400 px | 1.25:1 | Info section |
 
- Features
-- Semantic HTML
-- CSS Grid & Flexbox
-- Responsive design
-- No JavaScript
+
 
  Author
 Bareera Aftab
